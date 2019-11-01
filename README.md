@@ -1,2 +1,2 @@
-# DataDog Terraform README
+# Terraform AWS DataDog Module README
 
